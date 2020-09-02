@@ -1,6 +1,7 @@
 # Used-car-price-predictione
 - data from Kaggle : used_car_train / test data
-### Objectives: Predicting price of used-car with basic propertis of car in indian market
+### Objectives
+- Predicting price of used-car with basic propertis of car in indian market
 
 ### project goes:
 1. Data load and understand the data  
