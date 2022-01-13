@@ -3,7 +3,7 @@
 ## :dart:Objectives
 - Predicting price of used-car with basic propertis of car in indian market
 
-## :memo: project goes:
+## :memo: project goes
 1. Data load and understand the data  
 2. EDA + Preprocessing
 
@@ -15,5 +15,5 @@
 4. Modeling
 5. Inference - using SHAP ; verification of misclassified data : Why this model couldn't predict price of these cars?
 
-## :memo: data :
+## :memo: data 
 - from Kaggle : used_car_train / test data
