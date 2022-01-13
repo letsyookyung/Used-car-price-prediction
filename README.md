@@ -1,4 +1,4 @@
-# 🚗 Used-car price prediction
+# :car: Used-car price prediction
 
 ## :dart:Objectives
 - Predicting price of used-car with basic propertis of car in indian market
