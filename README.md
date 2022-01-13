@@ -1,9 +1,9 @@
-# Used-car-price-prediction
-- data from Kaggle : used_car_train / test data
-### Objectives
+# 🚗 Used-car-price-prediction
+
+## :dart:Objectives
 - Predicting price of used-car with basic propertis of car in indian market
 
-### project goes:
+## :memo: project goes:
 1. Data load and understand the data  
 2. EDA + Preprocessing
 
@@ -14,3 +14,6 @@
 3. Variable Selection by RFECV - instead of using RMSE, created a function that measures the error in terms of ratio
 4. Modeling
 5. Inference - using SHAP ; verification of misclassified data : Why this model couldn't predict price of these cars?
+
+## :memo: data :
+- from Kaggle : used_car_train / test data
